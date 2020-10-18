@@ -1,0 +1,15 @@
+body {
+	margin: 30px;
+}
+
+h5 {
+	color: red;
+}
+
+.container-fluid{
+	text-align: center;
+}
+
+img{
+	margin-top: 1.5rem;
+}
